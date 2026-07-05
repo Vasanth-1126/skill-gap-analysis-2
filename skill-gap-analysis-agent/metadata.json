@@ -1,0 +1,6 @@
+{
+  "name": "Skill Gap Analysis Agent",
+  "description": "An AI-powered professional career planner that analyzes your current skills against target roles, maps technical gaps, constructs interactive learning roadmaps, and simulates mock technical assessments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
